@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/tinyrenderer
+tinyrenderer.so
+tinyrenderer.dylib
+tinyrenderer.dll
+tinyrenderer.a
+tinyrenderer.lib
+tinyrenderer-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.ppm

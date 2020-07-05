@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Ev1lbl0w"
+	],
+	"copyright": "Copyright © 2020, Ev1lbl0w",
+	"description": "tinyrenderer implementation in Dlang",
+	"license": "wtfpl",
+	"name": "tinyrenderer",
+	"dependencies": {
+		"aurorafw:unit": "~master"
+	}
+}
